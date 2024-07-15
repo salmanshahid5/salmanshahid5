@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Mobile Application
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on on web development projects
-- 📫 How to reach me salmanshahid033@gmail.com
+- 📫 How to reach me salmanshahid0333@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing cricket and often participate in online tournaments.
 
