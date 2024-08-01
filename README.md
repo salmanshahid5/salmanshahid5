@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @salmanshahid5
 - 👀 I’m interested in Web and Mobile Application
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript & Typescript
 - 💞️ I’m looking to collaborate on on web development projects
 - 📫 How to reach me salmanshahid0333@gmail.com
 - 😄 Pronouns: he/him
