@@ -3,9 +3,9 @@
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966](https://camo.githubusercontent.com/8c5cdf60e41ea1c81044856ea5d178045e851f0b7e6e7365276c5ee3814d82d9/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f6a52663566736e38473659616f674157786e2f67697068792e6769663f6369643d373930623736313164663965396231626433356530313837646231366233303535356461656234356262313033383935267269643d67697068792e6769662663743d73">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanshahid5&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahid5" /> </p>
+<p align="left"> <img width="500px" height='100px' src="https://komarev.com/ghpvc/?username=salmanshahid5&label=Profile%20views&color=0e75b6&style=flat" alt="salmanshahid5" /> </p>
 
-- 🌱 I’m currently learning **Javascript & Typescript**
+- 🌱 I’m currently learning **Javascript & React**
 
 - 📫 How to reach me **salmanshahid0333@gmail.com**
 
@@ -24,8 +24,6 @@
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanshahid5&show_icons=true&locale=en&layout=compact" alt="salmanshahid5" width="400" height="200" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanshahid5&show_icons=true&locale=en" alt="salmanshahid5" width="400" height="200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanshahid5&" alt="salmanshahid5" width="400" height="200" /></p>
 
