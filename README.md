@@ -1,3 +1,4 @@
+![Header Background](https://github.com/ahmedrazabaloch/SMIT-WMA-BATCH-10/raw/main/Assets/background.png)
 <h1 align="center">Hi 👋, I'm Salman Shahid</h1>
 <h3 align="center">Exploring Frontend Basics: My HTML, CSS, and JS Adventure</h3>
 
