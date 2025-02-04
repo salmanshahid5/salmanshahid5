@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salman Shahid</h1>
-<h3 align="center">"Frontend Developer | React | Passionate Learner"</h3>
+<h3 align="center">"Full Stack Developer | React , Node.js , Mongodb|"</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=salmanshahid5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
