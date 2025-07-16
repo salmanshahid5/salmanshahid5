@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Salman Shahid</h1>
-<h3 align="center">"Full Stack Developer | React , Node.js , Mongodb|"</h3>
+<h3 align="center">"Full Stack Developer | React , Node.js , MongoDB |"</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=salmanshahid5&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🌱 I’m currently learning **ReactJs NodeJs Mongodb**
+- 🌱 Currently diving deeper into React.js, Node.js, and MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://thesalman.netlify.app/](https://thesalman.netlify.app/)
+- 💻 Explore my projects: [https://thesalman.netlify.app/](https://thesalman.netlify.app/)
 
-- 📫 How to reach me: **salmanshahid0333@gmail.com**
+- 📬 Reach me at: **salmanshahid0333@gmail.com**
 
 - 😄 Pronouns: **he/him**
 
-- ⚡ Fun fact: **I love playing cricket and often participate in online tournaments.**
+- ⚡ Fun fact: **My code only breaks when someone is watching.**
 
 ---
 
